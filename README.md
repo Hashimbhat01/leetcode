@@ -45,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Hashimbhat01/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Hashimbhat01/leetcode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Hashimbhat01/leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Hashimbhat01/leetcode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Hashimbhat01/leetcode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Hashimbhat01/leetcode/tree/master/0709-to-lower-case) |
 ## Design
 |  |
