@@ -38,4 +38,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Hashimbhat01/leetcode/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/Hashimbhat01/leetcode/tree/master/0709-to-lower-case) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Hashimbhat01/leetcode/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Hashimbhat01/leetcode/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Hashimbhat01/leetcode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
