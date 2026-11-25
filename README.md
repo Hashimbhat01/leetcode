@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Hashimbhat01/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Hashimbhat01/leetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/Hashimbhat01/leetcode/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/Hashimbhat01/leetcode/tree/master/1470-shuffle-the-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Hashimbhat01/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Hashimbhat01/leetcode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
